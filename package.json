@@ -1,0 +1,16 @@
+{
+  "name": "b2tconverter",
+  "version": "1.0.8",
+  "description": "A node js package to convert b2t. A really helpful package to convert password into the binary and save to the database for security purposes. Schools can use this to create tool easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "b2t",
+    "to",
+    "text"
+  ],
+  "author": "Aashay Trivedi",
+  "license": "ISC"
+}
